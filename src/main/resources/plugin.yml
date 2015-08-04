@@ -1,0 +1,6 @@
+name: CleggehLaunch
+version: 1.0
+main: org.matecraft.cleggeh.cleggehlaunch.launch
+author: Cleggeh
+description: >
+             A Launch Plugin.
